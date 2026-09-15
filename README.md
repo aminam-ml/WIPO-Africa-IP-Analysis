@@ -23,3 +23,12 @@ Conclusion:
 The analysis shows that intellectual property application activity is present across Africa, while also revealing significant differences between countries and types of intellectual property protection. Initiatives such as WIPO's 1% Project in Nigeria represent an opportunity to further expand intellectual property awareness among African youth, entrepreneurs, and creatives, helping them understand how IP protection can support their work and ideas.
 
 This project started with a simple curiosity about IP activity in Africa and led me to explore WIPO data through SQL and Power BI. It allowed me to turn that curiosity into a practical analysis while developing my skills in SQL data preparation, data analysis, and Power BI visualization.
+
+
+
+
+
+
+## Dashboard
+
+[View the Power BI Dashboard (PDF)](wipo_ip_analysis_africa_dashboard.pdf)
